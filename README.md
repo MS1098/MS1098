@@ -46,7 +46,7 @@ Hii! My Name is Mayur. Thank-you for taking the time to view my Github Profile.ð
 <a href="https://www.mongodb.com/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="40" width="40" />
 </a>
-
+<a href="https://www.react.com/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" height="40" width="40" />
 </a>
 <a href="https://www.cprogramming.com/" target="blank">
