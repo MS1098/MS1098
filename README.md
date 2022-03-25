@@ -24,7 +24,7 @@ Hii! My Name is Mayur. Thank-you for taking the time to view my Github Profile.�
 - 🔭 Always Curious to learn new technologies in web-development.
 - 🌱 I’m currently learning MERN stack in MASAI school.
 - ⚡ I like to watch Sci-Fi Movies, I do read books and i love to travel.
-- 💬 Have a look on my portfolio:https://affectionate-hypatia-2cd44f.netlify.app/
+- 💬 Have a look on my portfolio:https://mayur-shelar.netlify.app
 
 ### Skills 
          
