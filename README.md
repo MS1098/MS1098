@@ -1,3 +1,7 @@
+![Black Minimal Motivation Quote LinkedIn Banner](https://user-images.githubusercontent.com/96072679/160102187-57d2591b-65f6-4451-959d-ad1935ab6e0d.jpg)
+
+
+
 ### Hello Fellow Devlopers/ >! 👋
 
 <!--
