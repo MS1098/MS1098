@@ -21,10 +21,7 @@ Here are some ideas to get you started:
 Hii! My Name is Mayur. Thank-you for taking the time to view my Github Profile.😄
 
 ### About Me
-- 🔭 Always Curious to learn new technologies in web-development.
-- 🌱 I’m currently learning MERN stack in MASAI school.
-- ⚡ I like to watch Sci-Fi Movies, I do read books and i love to travel.
-- 💬 Have a look on my portfolio:https://mayur-shelar.netlify.app
+🌐 In my journey as a developer, I've had the opportunity to work on a variety of projects, honing my skills in front-end and back-end development. I enjoy turning ideas into robust, user-friendly applications and love tackling challenges that push my coding abilities.
 
 ### Skills 
          
